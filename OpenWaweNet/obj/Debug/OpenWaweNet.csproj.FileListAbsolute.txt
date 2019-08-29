@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\OpenWaweNet\OpenWaweNet\bin\Debug\OpenWaweNet.exe
+C:\Users\User\source\repos\OpenWaweNet\OpenWaweNet\bin\Debug\OpenWaweNet.pdb
+C:\Users\User\source\repos\OpenWaweNet\OpenWaweNet\obj\Debug\OpenWaweNet.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OpenWaweNet\OpenWaweNet\obj\Debug\OpenWaweNet.Form1.resources
+C:\Users\User\source\repos\OpenWaweNet\OpenWaweNet\obj\Debug\OpenWaweNet.Properties.Resources.resources
+C:\Users\User\source\repos\OpenWaweNet\OpenWaweNet\obj\Debug\OpenWaweNet.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OpenWaweNet\OpenWaweNet\obj\Debug\OpenWaweNet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OpenWaweNet\OpenWaweNet\obj\Debug\OpenWaweNet.exe
+C:\Users\User\source\repos\OpenWaweNet\OpenWaweNet\obj\Debug\OpenWaweNet.pdb
